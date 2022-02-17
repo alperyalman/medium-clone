@@ -1,0 +1,38 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-blue {
+    background-color: #C4E2FF; 
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.aside-nav > li {
+    margin-top: 10px;
+}
+
+.aside-nav > li > a {
+    color: gray;
+    text-decoration: none;
+}
+
+.border-top-dark {
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+
+.bo {
+    height: 25px;
+}
+
+.bn {
+    fill: rgba(0, 0, 0, 1);
+}
+
+
